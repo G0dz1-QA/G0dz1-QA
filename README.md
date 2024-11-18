@@ -1,6 +1,6 @@
 👋 Hi, I'm Igor Ilievski!
 
-🎯 QA Tester | 📱 Appium Enthusiast | 🐍 Python Developer
+🎯 QA Tester | 📱 Appium Enthusiast
 
 🔍 Passionate about ensuring flawless app experiences through rigorous testing.
 
